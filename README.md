@@ -4,7 +4,7 @@ The Push Notification Server handles registration of push notification device to
 - To know more about EPNS and the general specs, please jump to [EPNS General Specs](https://github.com/ethereum-push-notification-system/epns-specs/blob/master/README.md).
 - To know more about EPNS Mobile App, please jump to [EPNS Mobile App](https://github.com/ethereum-push-notification-system/epns-mobile-app/blob/master/README.md)
 
-# Technical Details
+# Technical Details (Will update, specs and server changed on 15th May)
 Following definitions are used in the rest of the spec to refer to a particular category or service.
 | Service  | Service Resolver | Description
 | ------------- | ------------- | ------------- |
